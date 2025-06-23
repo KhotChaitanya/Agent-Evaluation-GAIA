@@ -1,0 +1,20 @@
+gradio>=3.30
+requests>=2.28
+openai>=0.27.0
+pandas>=1.5
+#smolagents
+smolagents[litellm]
+duckduckgo_search
+wikipedia
+google-generativeai >= 0.3.2
+markdownify
+requests
+openpyxl
+
+langchain>=0.0.170
+langchain-community==0.0.17
+
+#gradio[oauth] >= 4.25.0
+#pandas >= 2.2.0
+#requests >= 2.31.0
+#smolagents >= 0.1.10
